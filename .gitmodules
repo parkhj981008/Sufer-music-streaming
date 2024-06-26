@@ -1,0 +1,8 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/surfer-streaming-website/api-server
+	branch = local
+[submodule "front"]
+	path = front
+	url = https://github.com/surfer-streaming-website/front
+	branch = dev
