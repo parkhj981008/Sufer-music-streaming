@@ -1,5 +1,5 @@
 [submodule "api-server"]
-	path = api
+	path = api-server
 	url = https://github.com/surfer-streaming-website/api-server
 	branch = local
 [submodule "front"]
